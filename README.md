@@ -1,4 +1,4 @@
-# first_app
+# AGRICULTURE GUIDE 
 
 This is an Agriculture Guide mobile application made with Flutter and Dart.
 
