@@ -12,6 +12,12 @@ This is an Agriculture Guide mobile application made with Flutter and Dart.
 
 # APPLICATION USER INTERFACE
 
-##### 1.![alt text](https://github.com/RohithSangati/FIRST_APP/blob/master/OutputImages/homeui.jpeg)
+##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/homeui.jpeg)
+
+##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/cropfinder.jpeg)
+
+##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/Fertcalci.jpeg)
+
+##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/appdrawer.jpeg)
 
 
