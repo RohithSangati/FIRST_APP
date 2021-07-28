@@ -1,5 +1,12 @@
 # first_app
 
-A new Flutter project.
+This is an Agriculture Guide mobile application made with Flutter and Dart.
 
-AN AGRICULTURE GUIDE APP MADE WITH FLUTTER AND DART
+## It has following features.
+
+1.Calculates the amount of fertilizer for the given land.
+2.Finds the suitable crops for given soil.
+3.Gives the information about harvesting techniques,pests and pesticides.
+4.Gives the information about organic farming.
+
+
