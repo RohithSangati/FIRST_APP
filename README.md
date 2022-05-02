@@ -16,8 +16,26 @@ This is an Agriculture Guide mobile application made with Flutter and Dart.
 
 ##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/cropfinder.jpeg)
 
+##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/CropFinderResult.jpeg)
+
 ##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/Fertcalci.jpeg)
 
+##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/FertilizerCalcResult.jpeg)
+
+##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/FertilizerCalError.jpeg)
+
+##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/HarvestTechnique.jpeg)
+
+##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/OrganicFarming.jpeg)
+
+##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/PestInfoTile.jpeg)
+
 ##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/appdrawer.jpeg)
+
+##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/Address.jpeg)
+
+##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/FeedbackError.jpeg)
+
+##### ![alt text](https://github.com/RohithSangati/UI-Images/blob/main/AgriAppOutputImages/Feedback.jpeg)
 
 
